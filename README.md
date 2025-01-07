@@ -1,8 +1,8 @@
-# Cuddly Fishstick 🐟🎣
+# Super Duper Enigma 🧩🔍
 
-Welcome to **Cuddly Fishstick**—the most adorable and cozy underwater adventure you’ll ever experience! Dive into a whimsical world full of fish, sticks, and cuddles. Whether you're playing, creating, or just enjoying the fun, **Cuddly Fishstick** is designed to bring joy, relaxation, and playful moments to your day.
+Welcome to **Super Duper Enigma**—the ultimate challenge for your mind! Prepare yourself for a journey filled with riddles, puzzles, and mysteries that will test your intellect and problem-solving skills. **Super Duper Enigma** is not for the faint-hearted, but for those who dare to push their limits and unravel the deepest secrets hidden within the enigma.
 
-Join the journey of a lovable fish and its trusty stick as they explore, interact with friends, and spread positive vibes across the aquatic world. Let’s swim through this cuddly adventure together!
+Embark on this thrilling adventure and solve mind-bending challenges, unlock hidden clues, and uncover the truth that lies beneath the surface. Whether you're playing solo or competing with friends, the enigma awaits you!
 
 ---
 
@@ -20,21 +20,21 @@ Join the journey of a lovable fish and its trusty stick as they explore, interac
 
 ## About 📚
 
-**Cuddly Fishstick** is a heartwarming project that follows the adventures of a cute, cuddly fish named Fishstick. It’s a blend of lighthearted gameplay, soothing visuals, and quirky interactions between the fish and its world. Whether it's a relaxing game, an interactive mobile experience, or a digital art project, **Cuddly Fishstick** promises a peaceful escape where the fish always find a way to bring a smile to your face.
+**Super Duper Enigma** is an intricate puzzle game designed to keep you on your toes. It’s a mystery-solving experience where every choice, every action, and every thought counts. With multiple levels, complex challenges, and cryptic clues, **Super Duper Enigma** will test your logical thinking, creativity, and ability to see connections that others might miss.
 
-Designed for all ages, **Cuddly Fishstick** encourages creativity, calmness, and positivity. Expect playful underwater settings, engaging characters, and plenty of surprises!
+Every level introduces a new layer of complexity, and the deeper you go, the harder the enigma becomes. Prepare yourself for a journey where every puzzle you solve brings you closer to unlocking the ultimate secret.
 
 ---
 
 ## Features ✨
 
-- 🐟 **Lovable Fishstick**: Guide your adorable fish through vibrant underwater scenes and encounter colorful sea creatures.
-- 🎮 **Interactive Gameplay**: Solve puzzles, collect items, and explore the ocean floor. The fish can interact with different elements like seaweed, shells, and bubbles.
-- 🐠 **Underwater Adventures**: Swim through coral reefs, kelp forests, and mysterious caves while enjoying peaceful and serene environments.
-- 🌊 **Relaxing Visuals and Sound**: Calm, soothing graphics and ambient ocean sounds designed to help you unwind and relax.
-- 🧸 **Cuddly Stick**: Fishstick’s trusty companion is its magical, cuddly stick. Use it to interact with the environment, solve puzzles, or even make new friends.
-- 🎨 **Customizable Fishstick**: Personalize your fish with different colors, patterns, and accessories to make it your very own!
-- 🎶 **Soothing Soundtrack**: Listen to a gentle, underwater-themed soundtrack that fits perfectly with the relaxing gameplay.
+- 🧩 **Challenging Puzzles**: A variety of puzzles ranging from logic problems, word games, and number challenges to intricate riddles and visual puzzles.
+- 🔒 **Cryptic Clues**: Every puzzle contains hidden clues that, once solved, unlock more puzzles and secrets.
+- 🎮 **Immersive Story**: An engaging narrative that ties every puzzle together into an overarching mystery. Solve the puzzles to reveal the next chapter of the story.
+- 🏆 **Multiple Levels**: Progress through different levels of difficulty. As you advance, the puzzles get harder, and the enigma deepens.
+- 🕵️‍♂️ **Interactive Gameplay**: Choose your path, interact with the environment, and collect clues as you explore.
+- 💡 **Hints and Tips**: Stuck on a puzzle? Use hints to guide you, but beware—using too many hints might cost you points!
+- 🌍 **Global Leaderboards**: Compete with others around the world and see how quickly you can solve the enigma. Will you be the fastest to uncover the mystery?
 
 ---
 
@@ -42,12 +42,13 @@ Designed for all ages, **Cuddly Fishstick** encourages creativity, calmness, and
 
 ### Prerequisites
 
-- **Operating System**: Windows, macOS, Linux, iOS, Android
-- **Platform**: Unity (for game projects) or mobile app for Android/iOS
+- **Operating System**: Windows, macOS, Linux, or Mobile (iOS/Android)
+- **Game Engine**: Unity or similar (for game-based projects)
+- **Required Libraries**: Ensure all dependencies are installed (see installation instructions for specifics).
 
 ### Steps to Install
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yo/cuddly-fishstick.git
-   cd cuddly-fishstick
+   git clone https://github.com/youse/super-duper-enigma.git
+   cd super-duper-enigma
